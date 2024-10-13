@@ -1,7 +1,7 @@
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
 <ul>
-  <li>🔭 👋 Hi, I’m @Apoliak7777</li>
+  <li>🔭 👋 <span style="font-size: 2em;">Hi, I’m @Apoliak7777</span></li>
 </ul>
 
 <h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
