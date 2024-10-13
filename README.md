@@ -1,9 +1,3 @@
-  - Discord https://discord.gg/rxuVTsFkGg
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4eff9851-b60b-459a-aaa8-6a8551564c8f">
-</div>
-
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 
 <ul>
