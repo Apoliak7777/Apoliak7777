@@ -1,7 +1,7 @@
-<h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
+<h1>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h1>
 
 <ul>
-  <li>🔭 👋 <span style="font-size: 2em;">Hi, I’m @Apoliak7777</span></li>
+  <li> 👋 <span style="font-size: 2em;">Hi, I’m @Apoliak7777</span></li>
 </ul>
 
 <h2>𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠 𝑎𝑛𝑑 𝑇𝑜𝑜𝑙𝑠</h2>
@@ -20,5 +20,5 @@
   <a href="https://discord.gg/F25avUBJay" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <p>Email: <a               href="mailto:alexpoliak21@gmail.com">alexpoliak21@gmail.com</a></p>
+  <p>Email: <a href="mailto:alexpoliak21@gmail.com">alexpoliak21@gmail.com</a></p>
 </div>
