@@ -80,16 +80,6 @@ Note: Language stats reflect repository surface, not depth of usage.
 
 ---
 
-## 🔮 Future Ideas / Roadmap (General)
-- Lightweight JSON-driven project listing (for portfolio)
-- Simple task management logic (local storage → optional backend later)
-- Add dark/light theme toggle (prefers-color-scheme + switch)
-- Accessibility pass (landmarks, aria labels, contrast test)
-- Switch to partial build system (maybe a static site generator later)
-- Basic deploy script or GitHub Actions for portfolio updates
-
----
-
 ## 🤝 Collaboration & Contributions
 I welcome:
 - Suggestions on code organization
@@ -110,13 +100,5 @@ Currently reachable through:
 (Add email / Discord later if needed.)
 
 ---
-
-## 🧾 Licensing
-Projects here use GPLv3 or MIT depending on the repository.  
-Check each repo’s LICENSE file for exact terms.
-
----
-
-If you’d like a shorter, more minimal version or a variant with icons removed, let me know and I’ll generate it.
 
 Thanks for visiting!
