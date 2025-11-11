@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Apoliak**
 
-Web‑focused developer who likes starting lean, iterating fast, and keeping code understandable. I enjoy crafting clean interfaces, structured layouts, and gradually layering in logic (rather than over‑engineering on day one).
-
 [![Followers](https://img.shields.io/github/followers/Apoliak7777?style=for-the-badge)](https://github.com/Apoliak7777)
 [![Profile Views](https://komarev.com/ghpvc/?username=Apoliak7777&style=for-the-badge)](https://github.com/Apoliak7777)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-✔-informational?style=for-the-badge)](https://github.com/Apoliak7777?tab=repositories)
@@ -36,8 +34,6 @@ Planned Exploration: API design (REST), minimal backend containerization (Docker
 | [apoliak-devportfolio](https://github.com/Apoliak7777/apoliak-devportfolio) | Experimental portfolio redesign v1 | HTML, CSS | Base phase |
 | [apoliakdevportfolio2](https://github.com/Apoliak7777/apoliakdevportfolio2) | Follow‑up structural attempt refining layout | HTML, CSS | Refining |
 | [WireadviseInventoryDashboard](https://github.com/Apoliak7777/WireadviseInventoryDashboard) | Beginning of inventory / dashboard concept (foundation phase) | HTML, CSS | Early |
-
-(If you want, I can later add badges per project, screenshots, or a dynamic table.)
 
 ---
 
