@@ -29,15 +29,6 @@
 
 ---
 
-## 🧪 Workflow Style
-1. Plan minimal slice (layout skeleton / basic sections)  
-2. Commit early; keep change sets small  
-3. Iterate UI clarity (naming, file structure)  
-4. Only introduce JS when interaction value > complexity  
-5. Document intention (why) in PR or commit message  
-
----
-
 ## 📊 GitHub Stats (Indicative)
 
 <div align="center">
@@ -46,8 +37,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoliak7777&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-Note: Language stats reflect repository surface, not depth of usage.
 
 ---
 
