@@ -15,14 +15,6 @@
 
 ---
 
-## 🛠 Tech Stack (Growing)
-Core: HTML, CSS (responsive layouts, utility patterns)  
-Learning / Using: JavaScript (modular scripts), PHP (basic server rendering)  
-Tools & Workflow: Git, GitHub (fork + PR flow), lightweight local servers  
-Planned Exploration: API design (REST), minimal backend containerization (Docker basics), accessibility improvements  
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack | Status |
@@ -37,29 +29,12 @@ Planned Exploration: API design (REST), minimal backend containerization (Docker
 
 ---
 
-## 🎯 Current Focus
-- Refining consistent layout system (spacing, component blocks)
-- Abstracting project data instead of hardcoding repeated sections
-- Introducing a simple plan config for Hosting_Website
-- Improving modular includes in PHP portfolio (header/footer reuse)
-- Establishing a README pattern template for every new repo
-- Practicing clean commit messages and branching discipline
-
----
-
 ## 🧪 Workflow Style
 1. Plan minimal slice (layout skeleton / basic sections)  
 2. Commit early; keep change sets small  
 3. Iterate UI clarity (naming, file structure)  
 4. Only introduce JS when interaction value > complexity  
 5. Document intention (why) in PR or commit message  
-
-Suggested commit prefixes I use / plan to standardize:  
-feat: new feature section  
-style: layout / spacing / visual polish  
-refactor: reorganize without changing behavior  
-docs: README / comments  
-chore: maintenance tasks  
 
 ---
 
