@@ -238,23 +238,6 @@ collaboration_style:
 
 <br/>
 
-<!-- SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apoliak7777/Apoliak7777/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apoliak7777/Apoliak7777/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Apoliak7777/Apoliak7777/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-> 💡 *To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repository.*
-
-<br/>
-
 <!-- FOOTER -->
 <div align="center">
 
