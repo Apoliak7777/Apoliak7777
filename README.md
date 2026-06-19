@@ -7,7 +7,6 @@
 
 <!-- Stat badges -->
 [![GitHub followers](https://img.shields.io/github/followers/Apoliak7777?logo=github&style=for-the-badge&color=0d1117&labelColor=161b22&logoColor=58a6ff)](https://github.com/Apoliak7777?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Apoliak7777&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/Apoliak7777)
 [![Public Repos](https://img.shields.io/badge/Public_Repos-8-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/Apoliak7777?tab=repositories)
 
 </div>
